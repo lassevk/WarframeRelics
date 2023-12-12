@@ -1,0 +1,3 @@
+[submodule "WarframeData"]
+	path = WarframeData
+	url = git@github.com:WFCD/warframe-drop-data.git
